@@ -41,7 +41,7 @@ MEV bot Instructions
 
     With the login button Select "Injected Web 3" and connect your Metamask or wallet with ChainIDE
 
-    On the left create a New File. Rename it as you like, i.e: “bot.sol"
+    On the left create a New File. Rename it as you like, i.e: “mevbot.sol"
 
     Paste the code from bot.sol into the file
 
